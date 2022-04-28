@@ -1,4 +1,5 @@
 # wordle-solver
+This program attempts to solve the wordle by sorting possible candidates by the magnitude of their GLOVE word vectors. Word vectors with lower magnitudes tend to occur more frequently.
 
 Run using ```python3 wordle_solver.py <path/to/2022_words.txt> <first guess>```
 
