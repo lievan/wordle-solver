@@ -1,6 +1,6 @@
 # wordle-solver
 
-Run using python3 wordle_solver.py 2022_words.txt salet
+Run using ```python3 wordle_solver.py 2022_words.txt salet```
 
 Where 'react' is the your first guess and '2022_words.txt' is a text file containing all the wordle answers from 2022
 
